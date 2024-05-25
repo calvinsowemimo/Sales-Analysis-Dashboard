@@ -28,7 +28,7 @@ Ensure Python and Tableau are installed on your system. Python scripts are used 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourgithubusername/sales-analysis-dashboard
+git clone https://github.com/calvinsowemimo/Sales-Analysis-Dashboard
 cd sales-analysis-dashboard
 
 # Install necessary Python packages
